@@ -20,3 +20,15 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "June 2023
+Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when $p/n\to\infty$ and applications"
+    authors: <strong>Jiaxin Qiu</strong>, Zeng Li, Jianfeng Yao
+    # conference_short: CVPR
+    conference: The Annals of Statistics <strong>(AOS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://doi.org/10.1214/23-AOS2300
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
