@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a fourth-year PhD student in statistics at HKU, fortuantely advised by Prof. [Jianfeng Yao](https://jianfengyao.wordpress.com/) (SUCH-SZ) and Prof. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech). 
 
 ## Research Interests
 
@@ -17,7 +17,7 @@ I am a Ph.D. student at ...
 
 - Zhanting Long, Zeng Li, Ruitao Lin, **Jiaxin Qiu** (2023). [On singular values of large dimensional lag-$\tau$ sample auto-correlation matrices](https://doi.org/10.1016/j.jmva.2023.105205). *Journal of Multivariate Analysis* (**JMVA**), 197. 
 
-- **Jiaxin Qiu**, Zeng Li, Jainfeng Yao (2023+). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix. *Submitted*, arXiv: [2309.00870](https://arxiv.org/abs/2309.00870)
+- **Jiaxin Qiu**, Zeng Li, Jainfeng Yao (2023+). [Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix](https://arxiv.org/abs/2309.00870). *Submitted*, arXiv: 2309.00870.
 
 ## Working Papers
 
