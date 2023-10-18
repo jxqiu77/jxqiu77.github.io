@@ -1,7 +1,7 @@
 # Basic Information 
-title: Mingu
+title: Jiaxin QIU
 position: Ph.D. Student
-affiliation: Your Affiliation
+affiliation: Department of Statistics and Actuarial Science, HKU
 email: jxqiu77 (at) gmail.com
 
 # Search Engine Optimization (SEO)
@@ -20,7 +20,7 @@ github_link: https://github.com/jxqiu77
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/heart.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
