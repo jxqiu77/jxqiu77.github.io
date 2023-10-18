@@ -17,7 +17,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint programme
 
 - Zhanting Long, Zeng Li, Ruitao Lin, **Jiaxin Qiu** (2023). [On singular values of large dimensional lag-$\tau$ sample auto-correlation matrices](https://doi.org/10.1016/j.jmva.2023.105205). *Journal of Multivariate Analysis* (**JMVA**), 197. 
 
-- **Jiaxin Qiu**, Zeng Li, Jainfeng Yao (2023+). [Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix](https://arxiv.org/abs/2309.00870). *Submitted*, arXiv: 2309.00870.
+- **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). [Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix](https://arxiv.org/abs/2309.00870). *Submitted*, arXiv: 2309.00870.
 
 ## Working Papers
 
