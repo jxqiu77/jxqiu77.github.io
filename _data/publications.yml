@@ -21,8 +21,7 @@ main:
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
 
-  - title: "June 2023
-Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when $p/n\to\infty$ and applications"
+  - title: "Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when $p/n\to\infty$ and applications"
     authors: <strong>Jiaxin Qiu</strong>, Zeng Li, Jianfeng Yao
     # conference_short: CVPR
     conference: The Annals of Statistics <strong>(AOS)</strong>, 2023.
