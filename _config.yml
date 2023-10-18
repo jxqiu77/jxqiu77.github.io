@@ -1,7 +1,10 @@
 # Basic Information 
 title: Jiaxin QIU (邱佳鑫)
-position: Ph.D. Student
-affiliation: Department of Statistics and Actuarial Science, HKU
+position: Ph.D. Candidate
+affiliation: The University of Hong Kong
+subaffiliation: Department of Statistics and Actuarial Science
+affiliation_link: https://www.hku.hk/
+subaffiliation_link: https://saasweb.hku.hk/
 email: jxqiu77 (at) gmail.com
 
 # Search Engine Optimization (SEO)
@@ -21,8 +24,8 @@ github_link: https://github.com/jxqiu77
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/heart.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/hku.png
+favicon_dark: ./assets/img/hku.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
