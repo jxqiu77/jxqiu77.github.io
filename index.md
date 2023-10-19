@@ -21,7 +21,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when $p/n\to\infty$ and applications. *The Annals of Statistics* (**AoS**), 51(3): 1427-1451. [[Website](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]
 
-- [On singular values of large dimensional lag-$\tau$ sample auto-correlation matrices](https://doi.org/10.1016/j.jmva.2023.105205). *Journal of Multivariate Analysis* (**JMVA**), 197. 
+- Zhanting Long, Zeng Li, Ruitao Lin, Jiaxin Qiu (2023). [On singular values of large dimensional lag-$\tau$ sample auto-correlation matrices](https://doi.org/10.1016/j.jmva.2023.105205). *Journal of Multivariate Analysis* (**JMVA**), 197. 
 
 - **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). [Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix](https://arxiv.org/abs/2309.00870). *Submitted*, arXiv: 2309.00870.
 
