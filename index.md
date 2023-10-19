@@ -11,6 +11,12 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint programme
 - **Random Matrix Theory** 
 - **High-dimensional Statistics** 
 
+## Education
+
+- Ph.D. in Statistics, **The University of Hong Kong** (Joint Program with SUSTech), 2020 - present
+- M.Sc. in Statistics, **Harbin Institute of Technology** (Joint Program with SUSTech), 2018 - 2020
+- B.Sc. in Mathematics, **Southern University of Science and Technology**, 2014 - 2018
+
 ## Publications and Preprints
 
 - **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023). [Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when $p/n\to\infty$ and applications](https://doi.org/10.1214/23-AOS2300). *The Annals of Statistics* (**AoS**), 51(3): 1427-1451.
