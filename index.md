@@ -34,12 +34,10 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 ## 🧑‍🏫 Teaching Assistant 
 
 - @HKU
-
   - STAT6010/7610: Advanced Probability (Fall 2023)
   - STAT2601: Probability and Statitics (Spring 2023)
 
 - @SUSTech
-
   - STA5001: High Dimensional Statistics (Spring 2022, Spring 2023)
   - MA308: Statistical Computation and Software (Fall 2020)
   - MAT7102/MA412: Selected Research Topics in Statistics (Spring 2020)
