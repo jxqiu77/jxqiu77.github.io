@@ -31,7 +31,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Manuscript*.
 
-## 👨‍🏫 Teaching Assistant 
+## 😴 Teaching Assistant 
 
 - @HKU
   - STAT6010/7610: Advanced Probability (Fall 2023)
