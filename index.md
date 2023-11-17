@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## 📣 About Me
+## 😀 About Me
 
 I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program), fortuantely advised by Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Prof. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech). 
 
-## 🔭 Research Interests
+## 🧐 Research Interests
 
 - **Random Matrix Theory** 
 - **High-dimensional Statistics** 
@@ -31,7 +31,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Manuscript*.
 
-## 🧑‍🏫 Teaching Assistant 
+## 👨‍🏫 Teaching Assistant 
 
 - @HKU
   - STAT6010/7610: Advanced Probability (Fall 2023)
