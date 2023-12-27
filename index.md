@@ -21,11 +21,13 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - **Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications**\
   **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023)\
-  *The Annals of Statistics* (**AoS**), 51(3): 1427-1451. [[Link](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]
+  <span style="color:red">*The Annals of Statistics* </span> (**AoS**), 51(3): 1427-1451. [[Link](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]
+
+.
 
 - **On singular values of large dimensional lag-tau sample auto-correlation matrices**\
   Zhanting Long, Zeng Li, Ruitao Lin, **Jiaxin Qiu** (2023).\
-  *Journal of Multivariate Analysis* (**JMVA**), 197. [[Link](https://doi.org/10.1016/j.jmva.2023.105205), [PDF](/assets/files/papers/2023-JMVA.pdf)]
+  <span style="color:red">*Journal of Multivariate Analysis*</span> (**JMVA**), 197. [[Link](https://doi.org/10.1016/j.jmva.2023.105205), [PDF](/assets/files/papers/2023-JMVA.pdf)]
 
 - **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix**\
   **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+).\
@@ -33,7 +35,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
   
 - **On eigenvalues of sample covariance matrices based on high-dimensional compositional data**\
   Qianqian Jiang, **Jiaxin Qiu**, Zeng Li (2023+).\
-  *Submitted.* [[arXiv](https://arxiv.org/abs/2312.14420)] 
+  *Submitted.* [[PDF](/assets/files/papers/2023-CoDA.pdf)] 
 
 ## 🏗️ Working Papers
 
