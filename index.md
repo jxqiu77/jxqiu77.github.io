@@ -23,8 +23,6 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
   **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023)\
   <span style="color:red">*The Annals of Statistics* </span> (**AoS**), 51(3): 1427-1451. [[Link](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]
 
-.
-
 - **On singular values of large dimensional lag-tau sample auto-correlation matrices**\
   Zhanting Long, Zeng Li, Ruitao Lin, **Jiaxin Qiu** (2023).\
   <span style="color:red">*Journal of Multivariate Analysis*</span> (**JMVA**), 197. [[Link](https://doi.org/10.1016/j.jmva.2023.105205), [PDF](/assets/files/papers/2023-JMVA.pdf)]
@@ -40,7 +38,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 ## 🏗️ Working Papers
 
 - **On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio**\
-  **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). *Manuscript*.
+  **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2023+). *Manuscript available upon request*.
 
 ## 😴 Teaching Assistant 
 
