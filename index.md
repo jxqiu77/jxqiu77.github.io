@@ -44,7 +44,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - @HKU
   - STAT6010/7610: Advanced Probability (Fall 2023)
-  - STAT2601: Probability and Statitics (Spring 2023)
+  - STAT2601: Probability and Statistics (Spring 2021, Spring 2024)
 
 - @SUSTech
   - STA5001: High Dimensional Statistics (Spring 2022, Spring 2023)
