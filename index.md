@@ -29,11 +29,11 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 - **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix**\
   **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2024+).\
-  *Submitted.* [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman-main.pdf), [Supplement](/assets/files/papers/2023-Spearman-supp.pdf)] 
+  *Under revision.* [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman-main.pdf), [Supplement](/assets/files/papers/2023-Spearman-supp.pdf)] 
   
 - **On eigenvalues of sample covariance matrices based on high-dimensional compositional data**\
   Qianqian Jiang, **Jiaxin Qiu**, Zeng Li (2024+).\
-  *Submitted.* [[arXiv](https://arxiv.org/abs/2312.14420), [PDF](/assets/files/papers/2023-CoDA.pdf)] 
+  *Under review.* [[arXiv](https://arxiv.org/abs/2312.14420), [PDF](/assets/files/papers/2023-CoDA.pdf)] 
 
 ## 🏗️ Working Papers
 
