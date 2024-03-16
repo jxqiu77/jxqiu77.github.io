@@ -52,7 +52,7 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
   - MAT7102/MA412: Selected Research Topics in Statistics (Spring 2020)
   - MA103A: Linear Algebra A (Fall 2018, Fall 2019)
 
-## :link: Links
+## 🔗 Links
 
 - [Foundations and Trends® in Machine Learning](https://www.nowpublishers.com/MAL)
 - [Probability Surveys](https://projecteuclid.org/journals/probability-surveys)
