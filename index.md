@@ -28,11 +28,11 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
   <span style="color:red">*Journal of Multivariate Analysis*</span> (**JMVA**), 197. [[Link](https://doi.org/10.1016/j.jmva.2023.105205), [PDF](/assets/files/papers/2023-JMVA.pdf)]
 
 - **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix**\
-  **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (2024+).\
+  **Jiaxin Qiu**, Zeng Li, Jianfeng Yao (Sep, 2023).\
   *Under revision.* [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman-main.pdf), [Supplement](/assets/files/papers/2023-Spearman-supp.pdf)] 
   
 - **On eigenvalues of sample covariance matrices based on high-dimensional compositional data**\
-  Qianqian Jiang, **Jiaxin Qiu**, Zeng Li (2024+).\
+  Qianqian Jiang, **Jiaxin Qiu**, Zeng Li (Dec, 2023).\
   *Submitted.* [[arXiv](https://arxiv.org/abs/2312.14420), [PDF](/assets/files/papers/2023-CoDA.pdf)] 
 
 ## 🏗️ Working Papers
