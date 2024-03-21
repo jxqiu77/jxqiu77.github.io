@@ -54,5 +54,6 @@ I am a fourth-year PhD student in statistics at HKU and SUSTech (joint program),
 
 ## 🔗 Links
 
+- [Advice for Authors (by Jacob Steinhardt)](https://bounded-regret.ghost.io/advice-for-authors/)
 - [Foundations and Trends® in Machine Learning](https://www.nowpublishers.com/MAL)
 - [Probability Surveys](https://projecteuclid.org/journals/probability-surveys)
