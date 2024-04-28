@@ -2,12 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
-
 body {
   background-color: #fff;
   padding:0px;
-/*   font: 16.0px/1.5 Crimson Pro, Noto Serif TC, serif;  */
-  font: 16.0px/1.5 Noto Sans, serif; 
+  font: 16.0px/1.5 Crimson Pro, Noto Serif TC, serif; 
   color:#595959;
   font-weight:400;
   margin:0
