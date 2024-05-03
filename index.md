@@ -34,7 +34,7 @@ Hi! I am a final-year PhD student in statistics at HKU and SUSTech (joint progra
   *Under revision.* 
   
 - **On eigenvalues of sample covariance matrices based on high-dimensional compositional data** [[arXiv](https://arxiv.org/abs/2312.14420), [PDF](/assets/files/papers/2023-CoDA.pdf)] \
-  Qianqian Jiang, **Jiaxin Qiu**, Zeng Li$^*$ (Dec, 2023).\
+  Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (Dec, 2023).\
   *Submitted.* 
 
 ## 🏗️ Working Papers
