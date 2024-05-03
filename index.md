@@ -19,7 +19,7 @@ Hi! I am a final-year PhD student in statistics at HKU and SUSTech (joint progra
 
 ## 📝 Publications and Preprints
 
-[\* = corresponding author]
+> \* = corresponding author
 
 - **Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications** [[Link](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]\
   **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2023)\
