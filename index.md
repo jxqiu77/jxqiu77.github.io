@@ -4,7 +4,7 @@ layout: homepage
 
 ## 😀 About Me
 
-Hi! I am a final-year PhD student in statistics at HKU and SUSTech (joint program), fortuantely advised by Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Prof. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech). 
+Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint program), fortuantely advised by Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Prof. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech). 
 
 ## 🧐 Research Interests
 
