@@ -29,7 +29,7 @@ Hi! I am a final-year PhD student in statistics at HKU and SUSTech (joint progra
   Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023).\
   <span style="color:red">*Journal of Multivariate Analysis*</span> (**JMVA**), 197. 
 
-- **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix** [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman-main.pdf), [Supplement](/assets/files/papers/2023-Spearman-supp.pdf)] \
+- **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix** [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman.pdf)] \
   **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (Sep, 2023).\
   *Under revision.* 
   
