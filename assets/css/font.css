@@ -12,7 +12,7 @@ body {
 
 @font-face {
     font-family: 'LxgwWenKai';
-    src: url('assets/fonts/LxgwWenKai-Regular.ttf') format('truetype');
+    src: url('assets/fonts/LXGWWenKai-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     unicode-range: U+4E00-9FFF; /* 仅应用于中文字符的Unicode范围 */
