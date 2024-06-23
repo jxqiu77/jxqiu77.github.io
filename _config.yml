@@ -49,6 +49,8 @@ font: "Serif"
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
+custom_css: assets/css/custom.css
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
@@ -61,4 +63,3 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
-custom_css: assets/css/custom.css
