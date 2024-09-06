@@ -13,7 +13,7 @@ Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint
 
 ## 🏫 Education
 
-- Ph.D. in Statistics, **The University of Hong Kong** (Joint Program with SUSTech), 2020 - present
+- Ph.D. in Statistics, **The University of Hong Kong** (Joint Program with SUSTech), 2020 - 2024
 - M.Sc. in Statistics, **Harbin Institute of Technology** (Joint Program with SUSTech), 2018 - 2020
 - B.Sc. in Mathematics, **Southern University of Science and Technology**, 2014 - 2018
 
@@ -25,15 +25,16 @@ Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint
 
 - **Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications** [[Link](https://doi.org/10.1214/23-AOS2300), [PDF](/assets/files/papers/2023-AoS-main.pdf), [Supplement](/assets/files/papers/2023-AoS-supp.pdf)]\
   **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2023)\
-  <span style="color:red">*The Annals of Statistics* </span> (**AoS**), 51(3): 1427-1451. 
+  *The Annals of Statistics*, 51(3): 1427-1451. 
 
 - **On singular values of large dimensional lag-tau sample auto-correlation matrices** [[Link](https://doi.org/10.1016/j.jmva.2023.105205), [PDF](/assets/files/papers/2023-JMVA.pdf)] \
   Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023).\
-  <span style="color:red">*Journal of Multivariate Analysis*</span> (**JMVA**), 197. 
+  *Journal of Multivariate Analysis*, 197. 
 
-- **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix** [[arXiv](https://arxiv.org/abs/2309.00870), [PDF](/assets/files/papers/2023-Spearman.pdf)] \
-  **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (Sep, 2023).\
-  *Under review.* 
+- **Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix** [[arXiv](https://arxiv.org/abs/2309.00870)] \
+  **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2024).\
+  *Journal of the American Statistical Association* (Accepted).
+
   
 - **On eigenvalues of sample covariance matrices based on high-dimensional compositional data** [[arXiv](https://arxiv.org/abs/2312.14420), [PDF](/assets/files/papers/2023-CoDA.pdf)] \
   Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (Dec, 2023).\
