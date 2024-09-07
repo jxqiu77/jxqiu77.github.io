@@ -6,7 +6,7 @@ affiliation: Department of Statistics and Actuarial Science, HKU
 affiliation_link: https://saasweb.hku.hk/
 
 email: qiujx (at) connect.hku.hk
-email2: jxqiu (at) gmail.com
+email2: jxqiu77 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -38,8 +38,8 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" 
-# font: "Sans Serif"
+# font: "Serif" 
+font: "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
