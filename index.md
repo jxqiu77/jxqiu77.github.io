@@ -17,7 +17,7 @@ Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint
 - M.Sc. in Statistics, **Harbin Institute of Technology** (Joint Program with SUSTech), 2018 - 2020
 - B.Sc. in Mathematics, **Southern University of Science and Technology**, 2014 - 2018
 
-## 📝 Publications and 
+## 📝 Publications 
 
 [\* = corresponding author]
 
