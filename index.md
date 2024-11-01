@@ -4,7 +4,8 @@ layout: homepage
 
 ## 😀 About Me
 
-Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint program), fortuantely advised by Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Prof. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech). 
+Hi! 👋 
+I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong, where I am mentored by Dr. [Zhigang Bao](https://sites.google.com/view/zhigangbaohomepage/).
 
 ## 🧐 Research Interests
 
@@ -14,7 +15,9 @@ Hi! 👋 I am a final-year PhD candidate in statistics at HKU and SUSTech (joint
 ## 🏫 Education
 
 - Ph.D. in Statistics, **The University of Hong Kong** (Joint Program with SUSTech), 2020 - 2024
+  - Supervisors: Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Dr. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech
 - M.Sc. in Statistics, **Harbin Institute of Technology** (Joint Program with SUSTech), 2018 - 2020
+  - Supervisor: Prof. [Guoliang Tian](https://stat-ds.sustech.edu.cn/teacher/TIAN,Guoliang?lang=en-us)
 - B.Sc. in Mathematics, **Southern University of Science and Technology**, 2014 - 2018
 
 ## 📝 Publications 
