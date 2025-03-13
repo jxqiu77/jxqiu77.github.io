@@ -9,14 +9,14 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 
 ## 🧐 Research Interests
 
-- **Random Matrix Theory** 
-- **High-dimensional Statistics** 
+- Random Matrix Theory 
+- High-dimensional Statistics
 
 ## 🏫 Education
 
-- Ph.D. in Statistics, **The University of Hong Kong** (Joint Program with SUSTech), 2020 - 2024
+- Ph.D. in Statistics, **The University of Hong Kong**, 2020 - 2024
   - Supervisors: Prof. [Jianfeng (Jeff) Yao](https://jianfengyao.wordpress.com/) (CUHK-SZ) and Dr. [Zeng Li](https://sites.google.com/site/zenglihku/zeng-li-%E6%9D%8E%E6%9B%BE) (SUSTech)
-- M.Sc. in Statistics, **Harbin Institute of Technology** (Joint Program with SUSTech), 2018 - 2020
+- M.Sc. in Statistics, **Harbin Institute of Technology**, 2018 - 2020
   - Supervisor: Prof. [Guoliang Tian](https://stat-ds.sustech.edu.cn/teacher/TIAN,Guoliang?lang=en-us)
 - B.Sc. in Mathematics, **Southern University of Science and Technology**, 2014 - 2018
 
