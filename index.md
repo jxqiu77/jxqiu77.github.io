@@ -37,12 +37,16 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 - Qianqian Jiang, <strong>Jiaxin Qiu</strong>, Zeng Li* (2025+). On eigenvalues of sample covariance matrices based on high-dimensional compositional data.
   <em>Submitted</em>.
   <a href="https://arxiv.org/abs/2312.14420" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
-    <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: -0.25em; margin-right: 2px;">
+    <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     arXiv
   </a>
-  <a href="/assets/files/papers/2024-arXiv-CoDA.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 12px; text-decoration: none; color: #4183c4;">
-    <i class="far fa-file-pdf" style="margin-right: 4px;"></i> PDF
+  <a href="/assets/files/papers/2024-arXiv-CoDA.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+    <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+    PDF
   </a>
+  <!-- <a href="/assets/files/papers/2024-arXiv-CoDA.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 12px; text-decoration: none; color: #4183c4;">
+    <i class="far fa-file-pdf" style="margin-right: 4px;"></i> PDF
+  </a> -->
 
 
 - **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2025+). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Working Paper*.
