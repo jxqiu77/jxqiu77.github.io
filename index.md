@@ -36,7 +36,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
   <a href="/assets/files/papers/2023-AoS-ultraCLT.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
 </p>
 
-[<i class="fas fa-link"></i> Link](https://link.to/paper) [<i class="fas fa-file-pdf"></i> PDF](https://link.to/pdf) [<i class="fas fa-code"></i> Code](https://github.com/yourrepo)
+[<i class="fas fa-link"></i> Link](https://link.to/paper)  [<i class="far fa-file-pdf"></i> PDF](https://link.to/pdf)  [<i class="far fa-code"></i> Code](https://github.com/yourrepo)
 
 ## 🏗️ Preprints
 
