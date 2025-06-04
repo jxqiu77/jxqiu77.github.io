@@ -34,7 +34,9 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 
 [The preprints on this website may be more up-to-date than their arXiv versions.]
 
-- Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (2025+). On eigenvalues of sample covariance matrices based on high-dimensional compositional data. *Submitted*. [arXiv](https://arxiv.org/abs/2312.14420) [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2024-arXiv-CoDA.pdf)
+- Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (2025+). On eigenvalues of sample covariance matrices based on high-dimensional compositional data. *Submitted*. <a href="https://arxiv.org/abs/2312.14420">
+  <img src="/assets/img/arxiv-logo.svg" alt="arXiv" style="height: 1em; vertical-align: middle;">
+</a> &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2024-arXiv-CoDA.pdf)
 
 - **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2025+). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Working Paper*.
 
