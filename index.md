@@ -37,7 +37,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 - Qianqian Jiang, <strong>Jiaxin Qiu</strong>, Zeng Li* (2025+). On eigenvalues of sample covariance matrices based on high-dimensional compositional data.
   <em>Submitted</em>.
   <a href="https://arxiv.org/abs/2312.14420" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
-    <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: -0.1em; margin-right: 4px;">
+    <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: -0.15em; margin-right: 4px;">
     arXiv
   </a>
   <a href="/assets/files/papers/2024-arXiv-CoDA.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 12px; text-decoration: none; color: #4183c4;">
