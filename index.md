@@ -24,25 +24,17 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 
 [\* = corresponding author]
 
-- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2023). [Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications](https://doi.org/10.1214/23-AOS2300). *The Annals of Statistics*, 51(3): 1427-1451. [[PDF](/assets/files/papers/2023-AoS-ultraCLT.pdf)] 
+- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications. *The Annals of Statistics*, 51(3): 1427-1451. [<i class="fas fa-link"></i> Link](https://doi.org/10.1214/23-AOS2300) &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2023-AoS-ultraCLT.pdf)
 
-- Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023). [On singular values of large dimensional lag-tau sample auto-correlation matrices](https://doi.org/10.1016/j.jmva.2023.105205). *Journal of Multivariate Analysis*, 197. [[PDF](/assets/files/papers/2023-JMVA-autocorr.pdf)]
+- Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023). On singular values of large dimensional lag-tau sample auto-correlation matrices. *Journal of Multivariate Analysis*, 197. [<i class="fas fa-link"></i> Link](https://doi.org/10.1016/j.jmva.2023.105205) &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2023-JMVA-autocorr.pdf)
 
-- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2024). [Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402565). *Journal of the American Statistical Association* (in press). [[PDF](/assets/files/papers/2024-JASA-Spearman.pdf)]
-
-<p>
-  <strong>Jiaxin Qiu</strong>, Zeng Li*, Jianfeng Yao (2023).
-  <a href="https://doi.org/10.1214/23-AOS2300"><i class="fas fa-link"></i> Paper</a>,
-  <a href="/assets/files/papers/2023-AoS-ultraCLT.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
-</p>
-
-[<i class="fas fa-link"></i> Link](https://link.to/paper)  [<i class="far fa-file-pdf"></i> PDF](https://link.to/pdf)  [<i class="far fa-code"></i> Code](https://github.com/yourrepo)
+- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2024). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix. *Journal of the American Statistical Association* (in press). [<i class="fas fa-link"></i> Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402565) &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2024-JASA-Spearman.pdf)]
 
 ## 🏗️ Preprints
 
 [The preprints on this website may be more up-to-date than their arXiv versions.]
 
-- Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (2025+). [On eigenvalues of sample covariance matrices based on high-dimensional compositional data](https://arxiv.org/abs/2312.14420). *Submitted*. [[PDF](/assets/files/papers/2024-arXiv-CoDA.pdf)]  
+- Qianqian Jiang, **Jiaxin Qiu**, Zeng Li\* (2025+). [On eigenvalues of sample covariance matrices based on high-dimensional compositional data](https://arxiv.org/abs/2312.14420). *Submitted*. [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2024-arXiv-CoDA.pdf)]  
 
 - **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2025+). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Working Paper*.
 
