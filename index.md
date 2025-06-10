@@ -42,7 +42,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 </a>
 <!-- [<i class="fas fa-link"></i> Link](https://doi.org/10.1016/j.jmva.2023.105205) &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2023-JMVA-autocorr.pdf) -->
 
-- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2024). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix. **Journal of the American Statistical Association** (in press). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402565" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+- **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2025). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix. **Journal of the American Statistical Association**, 120:550, 1139-1151. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402565" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/link.svg" alt="Link" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
   Link
 </a> <a href="/assets/files/papers/2024-JASA-Spearman.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
