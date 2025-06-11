@@ -61,7 +61,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
     <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     arXiv
   </a>
-  <a href="/assets/files/papers/2024-arXiv-CoDA.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+  <a href="/assets/files/papers/2025-arXiv-CoDA-v3.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
     <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     PDF
   </a>
