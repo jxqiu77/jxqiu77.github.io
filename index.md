@@ -27,11 +27,14 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 - **Jiaxin Qiu**, Zeng Li\*, Jianfeng Yao (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n->infinity and applications. **The Annals of Statistics**, 51(3): 1427-1451. <a href="https://doi.org/10.1214/23-AOS2300" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/link.svg" alt="Link" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
   Link
-</a> <a href="/assets/files/papers/2023-AoS-ultraCLT.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+</a> 
+<a href="/assets/files/papers/2023-AoS-ultraCLT.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
   PDF
+</a> <a href="/assets/files/papers/2023-AoS-ultraCLT-Errata.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+  <img src="/assets/img/pdf.svg" alt="Errata" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+  Errata
 </a>
-<!-- [<i class="fas fa-link"></i> Link](https://doi.org/10.1214/23-AOS2300) &ensp; [<i class="far fa-file-pdf"></i> PDF](/assets/files/papers/2023-AoS-ultraCLT.pdf) -->
 
 - Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023). On singular values of large dimensional lag-tau sample auto-correlation matrices. **Journal of Multivariate Analysis**, 197. <a href="https://doi.org/10.1016/j.jmva.2023.105205" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/link.svg" alt="Link" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
