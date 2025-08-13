@@ -31,10 +31,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 <a href="/assets/files/papers/2023-AoS-ultraCLT.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
   PDF
-</a> <a href="/assets/files/papers/2023-AoS-ultraCLT-Errata.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
-  <img src="/assets/img/pdf.svg" alt="Errata" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
-  Errata
-</a>
+</a> 
 
 - Zhanting Long, Zeng Li\*, Ruitao Lin, **Jiaxin Qiu** (2023). On singular values of large dimensional lag-tau sample auto-correlation matrices. **Journal of Multivariate Analysis**, 197. <a href="https://doi.org/10.1016/j.jmva.2023.105205" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/link.svg" alt="Link" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
