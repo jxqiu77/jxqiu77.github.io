@@ -80,6 +80,10 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
     <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     PDF
   </a>
+  <a href="https://github.com/jxqiu77/scm-coda" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+    <img src="/assets/img/code-2.svg" alt="Code" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+    Code
+  </a>
 
 - Jiaxin Qiu, Zeng Li\*, Jianfeng Yao (2026). On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. *Working Paper*.
 
