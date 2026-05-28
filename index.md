@@ -22,7 +22,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 
 ## 📝 Publications 
 
-[\* = corresponding author, † = equal contribution, α-β: alphabetical order]
+[\* = corresponding author, † = equal contribution, α-β = alphabetical order]
 
 - Jiaxin Qiu, Zeng Li\*, Jianfeng Yao (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n → ∞ and applications. **The Annals of Statistics**, 51(3): 1427-1451. <a href="https://doi.org/10.1214/23-AOS2300" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
   <img src="/assets/img/link.svg" alt="Link" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
@@ -76,7 +76,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
     <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     arXiv
   </a>
-  <a href="/assets/files/papers/2025-arXiv-CoDA-v3.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+  <a href="/assets/files/papers/2025-arXiv-CoDA-v4.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
     <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     PDF
   </a>
