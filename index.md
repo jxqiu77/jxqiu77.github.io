@@ -55,7 +55,18 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
 
 [The preprints on this website may be more up-to-date than their arXiv versions.]
 
-- Zhigang Bao, Kha Man Cheong, Yuji Li, Jiaxin Qiu (α-β) (2026). A spectral approach for online covariance change point detection.
+- (α-β) Zhigang Bao, Kha Man Cheong, Yuji Li, Jiaxin Qiu (2026). Spike Estimation from Heteroscedastic Noise via Random Splitting.
+  *Submitted*.
+  <a href="https://arxiv.org/abs/2609.11169" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+    <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+    arXiv
+  </a>
+  <a href="/assets/files/papers/2026-arXiv-Asymmetrization-v1.pdf" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+    <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+    PDF
+  </a>
+
+- (α-β) Zhigang Bao, Kha Man Cheong, Yuji Li, Jiaxin Qiu (2026). A spectral approach for online covariance change point detection.
   *Submitted*.
   <a href="https://arxiv.org/abs/2601.22602" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
     <img src="/assets/img/arxiv-logomark-small.svg" alt="arXiv" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
