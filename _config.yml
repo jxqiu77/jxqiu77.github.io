@@ -4,6 +4,8 @@ title: "Jiaxin Qiu (<span class='font-lxgwwenkai'>邱佳鑫</span>)"
 position: Postdoctoral Fellow
 affiliation: Department of Mathematics, HKU
 affiliation_link: https://hkumath.hku.hk/web/index.php
+url: "https://jxqiu77.github.io"
+baseurl: ""
 
 email: jxqiu (at) hku.hk
 email2: jxqiu77 (at) gmail.com
@@ -12,7 +14,6 @@ email2: jxqiu77 (at) gmail.com
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: jiaxin qiu, qiu jiaxin, jiaxinqiu, qiujiaxin
 description: Jiaxin Qiu's Homepage
-canonical: https://github.com/jxqiu77
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -25,9 +26,9 @@ orcid: https://orcid.org/0000-0001-8468-0290
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/jxqiu-3.jpg
-favicon: ./assets/img/heart.jpg
-favicon_dark: ./assets/img/mingu1.png
+avatar: /assets/img/jxqiu-3.jpg
+favicon: /assets/img/heart.jpg
+favicon_dark: /assets/img/mingu1.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -61,4 +62,3 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
-
