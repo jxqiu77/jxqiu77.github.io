@@ -69,7 +69,7 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
     Code
   </a>
 
-- On spiked eigenvalues of general sample covariance matrices under extreme aspect ratio. <br>
+- Limiting laws for spiked eigenvalues of renormalized sample covariance matrices under ultra-high dimension. <br>
   Jiaxin Qiu, Zeng Li\*, Jianfeng Yao (2026). *Manuscript*.
 
 - Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix. <br>
