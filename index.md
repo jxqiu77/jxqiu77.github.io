@@ -38,6 +38,10 @@ I am currently a Postdoctoral Fellow in the [Department of Mathematics](https://
     <img src="/assets/img/pdf.svg" alt="PDF" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
     PDF
   </a>
+  <a href="https://github.com/jxqiu77/asymmetrization" target="_blank" style="display: inline-flex; align-items: center; margin-left: 6px; text-decoration: none; color: #4183c4;">
+    <img src="/assets/img/code-2.svg" alt="Code" style="height: 1em; vertical-align: text-bottom; margin-right: 2px;">
+    Code
+  </a>
 
 - <a href="https://arxiv.org/abs/2601.22602" target="_blank">A spectral approach for online covariance change point detection.</a> <br>
   (α-β) Zhigang Bao, Kha Man Cheong, Yuji Li, Jiaxin Qiu (2026). *Submitted*.
