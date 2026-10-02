@@ -9,6 +9,77 @@
     font-family: 'LXGW WenKai Screen', sans-serif;
 }
 
+.home-page .code-icon {
+    width: 1em;
+    height: 1em;
+    flex-shrink: 0;
+    margin-right: 2px;
+    color: #043361;
+}
+
+@include dark-mode {
+    .home-page .code-icon {
+        color: #3eb7f0;
+    }
+}
+
+:root[data-theme="light"] {
+    color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+    color-scheme: dark;
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    border: 1px solid #dfe2e5;
+    border-radius: 50%;
+    background: #fff;
+    color: #043361;
+    font-size: 18px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.theme-toggle[hidden] {
+    display: none;
+}
+
+.theme-toggle:hover {
+    background: #f4f4f4;
+}
+
+.theme-toggle:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+}
+
+:root[data-theme="dark"] .theme-toggle {
+    border-color: #454755;
+    background: #20212b;
+    color: #3eb7f0;
+}
+
+:root[data-theme="dark"] .theme-toggle:hover {
+    background: #292b36;
+}
+
+@media print {
+    .theme-toggle {
+        display: none;
+    }
+}
+
 .math-page {
     --inequality-border: #dfe2e5;
     --inequality-muted: #586069;

@@ -20,8 +20,12 @@
     {% endif %}
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark | relative_url }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon | relative_url }}" type="image/png" />
+    {% if page.url == "/" %}
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+    {% endif %}
+
+    <link rel="icon" data-theme="dark" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark | relative_url }}" type="image/png" />
+    <link rel="icon" data-theme="light" media="(prefers-color-scheme:light)" href="{{ site.favicon | relative_url }}" type="image/png" />
     <script src="{{ '/assets/js/favicon-switcher.js' | relative_url }}" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
@@ -61,6 +65,11 @@
 
   </head>
   <body class="{% if page.url == '/' %}home-page{% elsif page.math %}math-page{% endif %}">
+    {% if page.url == "/" %}
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode" aria-pressed="false" hidden>
+      <i class="fas fa-moon" aria-hidden="true"></i>
+    </button>
+    {% endif %}
     <div class="wrapper">
       {% if page.url == "/" %}
       <header>

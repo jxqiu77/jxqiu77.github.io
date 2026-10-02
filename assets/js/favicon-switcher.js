@@ -26,9 +26,10 @@ function initSwitcher(delay) {
 
   function faviconApplyLoop() {
     var matched
+    var theme = document.documentElement.getAttribute('data-theme')
 
     links.forEach(function(link) {
-      if (window.matchMedia(link.media).matches) {
+      if (theme ? link.getAttribute('data-theme') === theme : window.matchMedia(link.media).matches) {
         matched = link
       }
     })
@@ -44,9 +45,11 @@ function initSwitcher(delay) {
   }
 
   var intervalId = setInterval(faviconApplyLoop, delay || 300)
+  document.addEventListener('themechange', faviconApplyLoop)
 
   function unsubscribe() {
     clearInterval(intervalId)
+    document.removeEventListener('themechange', faviconApplyLoop)
     links.forEach(function(link) {
       document.head.appendChild(link)
     })
